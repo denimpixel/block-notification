@@ -1,16 +1,16 @@
 name: Bug report
-description: Сообщить о проблеме в Block Notification
+description: Tell us what is not working.
 title: "[Bug]: "
 labels: [bug]
 body:
   - type: textarea
     id: details
     attributes:
-      label: Что произошло?
-      description: Опишите ожидаемый и фактический результат. Не добавляйте личные данные.
+      label: What happened?
+      description: Tell us what you expected and what happened instead. Please do not include private information.
     validations:
       required: true
   - type: input
     id: chrome
     attributes:
-      label: Версия Chrome
+      label: Chrome version

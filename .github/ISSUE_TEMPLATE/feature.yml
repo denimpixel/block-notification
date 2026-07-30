@@ -1,11 +1,11 @@
 name: Feature request
-description: Предложить улучшение
+description: Suggest an improvement for Block Notification.
 title: "[Idea]: "
 labels: [enhancement]
 body:
   - type: textarea
     id: idea
     attributes:
-      label: Ваша идея
+      label: Your idea
     validations:
       required: true
