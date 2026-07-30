@@ -11,8 +11,8 @@ Block Notification is a lightweight Chrome extension that stops intrusive websit
 <br />
 <br />
 
-[![Privacy: local only](https://img.shields.io/badge/Privacy-local--only-2ea44f)](https://chromewebstore.google.com/detail/block-notification/djljbdlfbneldoedlmdhmgnjhomfkoja?authuser=2&hl=ru)
-[![Chrome extension](https://img.shields.io/badge/Chrome-Extension-fbbc04?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/block-notification/djljbdlfbneldoedlmdhmgnjhomfkoja?authuser=2&hl=ru)
+[![Privacy: local only](https://img.shields.io/badge/Privacy-local--only-2ea44f)](https://chromewebstore.google.com/detail/block-notification/djljbdlfbneldoedlmdhmgnjhomfkoja)
+[![Chrome extension](https://img.shields.io/badge/Chrome-Extension-fbbc04?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/block-notification/djljbdlfbneldoedlmdhmgnjhomfkoja?authuser=2&)
 
 ## Silence notification prompts. Keep control.
 
